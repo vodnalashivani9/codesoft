@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;  /* Light cream background */
+    color: #333;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: #4caf50; /* Green header */
+    color: white;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+header p {
+    margin: 15px 0;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #ff9800; /* Orange button */
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* Sections */
+section {
+    padding: 40px 20px;
+    background-color: #fffde7; /* Light yellow sections */
+    margin-bottom: 10px;
+}
+
+section h2 {
+    color: #ff5722; /* Deep orange headings */
+    margin-bottom: 15px;
+}
+
+section p {
+    max-width: 600px;
+    margin: auto;
+}
+
+/* Features */
+#features .feature {
+    margin: 20px 0;
+}
+
+/* Call to Action */
+#cta {
+    background-color: #ff5722; /* Deep orange CTA */
+    color: white;
+}
+
+#cta .btn {
+    background-color: #4caf50; /* Green button */
+    color: white;
+}
+
+/* Footer */
+footer {
+    background-color: #795548; /* Brown footer */
+    color: white;
+    padding: 15px 0;
+}
